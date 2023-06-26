@@ -36,3 +36,6 @@ cmake-build-*/
 *.exe
 *.out
 *.app
+
+# excluding test .txt files
+test0*.txt
