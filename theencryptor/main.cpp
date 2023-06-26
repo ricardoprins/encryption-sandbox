@@ -1,5 +1,6 @@
 #include "commands.h"
 #include <iostream>
+#include <limits>
 #include <openssl/rand.h>
 
 constexpr int KEY_LENGTH = 256 / 8;  // AES-256
